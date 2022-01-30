@@ -8,9 +8,9 @@ class DevOpsUsach2020ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//float resultadoReal = 10;
-    	//float resultadoEsperado = 10;
-    	//assertEquals(resultadoReal, resultadoEsperado);
+		float resultadoReal = 10;
+    	float resultadoEsperado = 10;
+    	assertEquals(resultadoReal, resultadoEsperado);
 		
 	}
 
